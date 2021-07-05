@@ -57,3 +57,6 @@ h1{
         border-radius: 10px;
         border-left: 5px solid navy;
     }
+    footer p{
+        text-align:center;
+    }
