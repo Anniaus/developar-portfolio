@@ -17,10 +17,11 @@ section{
 .half-width img{
     width: 80%;
 }
-.link-button{
+.link{
     text-decoration: none;
-    background-image: linear-gradient(orange tomato);
+    background-image:linear-gradient(orange,red);
+    padding: 10px 40px;
+    border-radius: 10px;
+    font-weight: 700;
     color: white;
-    padding:10px 40px ;
-    border-radius: 5px;
 }
